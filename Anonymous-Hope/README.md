@@ -37,7 +37,7 @@ Credits:
 
 Andrei Shevchuk (https://github.com/shvchk)
 I used his 'Poly-Light' grub theme as a template to make this theme.
-(copy of MIT License is included)
+(MIT License)
 
 Llewelyn Trahaearn (https://www.opendesktop.org/member/461881)
 I used the icons from his 'Standby' grub theme in this theme.
